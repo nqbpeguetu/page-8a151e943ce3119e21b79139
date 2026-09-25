@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.shaxianjob.cn/sitemap.xml
